@@ -1,9 +1,9 @@
-PWD /Users/jacksonwills/Documents/SENIOR-YEAR-2020/TV PRODUCTION
+PWD /Users/jacksonwills/Documents/SENIOR-YEAR-2020/TV-PRODUCTION/C_BLOCK
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt
-INPUT Block_A_Script.tex
-OUTPUT Block_A_Script.log
+INPUT Block_C_Script.tex
+OUTPUT Block_C_Script.log
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
@@ -14,9 +14,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
-INPUT Block_A_Script.aux
-INPUT Block_A_Script.aux
-OUTPUT Block_A_Script.aux
+INPUT Block_C_Script.aux
+INPUT Block_C_Script.aux
+OUTPUT Block_C_Script.aux
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -27,5 +27,5 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT Block_A_Script.xdv
-INPUT Block_A_Script.aux
+OUTPUT Block_C_Script.xdv
+INPUT Block_C_Script.aux
