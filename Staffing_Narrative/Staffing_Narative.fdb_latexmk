@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1588107304 "Staffing_Narative.xdv" "Staffing_Narative.pdf" "Staffing_Narative" 1588107317
-  "Staffing_Narative.xdv" 1588107303 25184 f4a6f01b06ebb7d0c47c6a270c8a72c1 "xelatex"
+["xdvipdfmx"] 1588190869 "Staffing_Narative.xdv" "Staffing_Narative.pdf" "Staffing_Narative" 1588190870
+  "Staffing_Narative.xdv" 1588190869 104524 fc670b1eb5dbaab0b4bbe357c63a17fc "xelatex"
   (generated)
   "Staffing_Narative.pdf"
-["xelatex"] 1588107303 "Staffing_Narative.tex" "Staffing_Narative.xdv" "Staffing_Narative" 1588107317
+["xelatex"] 1588190868 "Staffing_Narative.tex" "Staffing_Narative.xdv" "Staffing_Narative" 1588190870
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -37,13 +37,13 @@
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
   "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1557342089 3751069 3e95e8a30a2d43fc44f2c90c78c41394 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "Staffing_Narative.aux" 1588107303 1687 db7f311a92c18a22998935b601c6608b "xelatex"
-  "Staffing_Narative.out" 1588107303 547 44f4b76efee0138bff9c67b28ab94bcb "xelatex"
-  "Staffing_Narative.tex" 1588107293 1620 add5a13b3930cc556760feaa903dec9f ""
-  "Staffing_Narative.toc" 1588107303 699 d8fd509a69fa0026000209bd60db11c1 "xelatex"
+  "Staffing_Narative.aux" 1588190869 3022 8bb1459af640b668a5a1409eedb8b8b7 "xelatex"
+  "Staffing_Narative.out" 1588190869 1279 e899db16b57610a3a8dd67c766cb0d2b "xelatex"
+  "Staffing_Narative.tex" 1588190866 8471 e9de18b97f8b204eef093f5acdace050 ""
+  "Staffing_Narative.toc" 1588190869 1594 3f9645c820d00e6e5407795108355fbf "xelatex"
   (generated)
-  "Staffing_Narative.toc"
   "Staffing_Narative.xdv"
-  "Staffing_Narative.log"
-  "Staffing_Narative.out"
   "Staffing_Narative.aux"
+  "Staffing_Narative.out"
+  "Staffing_Narative.toc"
+  "Staffing_Narative.log"
